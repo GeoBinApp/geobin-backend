@@ -1,0 +1,6 @@
+requests
+ultralytics
+uvicorn
+fastapi
+pydantic
+json
