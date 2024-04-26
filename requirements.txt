@@ -3,4 +3,4 @@ ultralytics
 uvicorn
 fastapi
 pydantic
-json
+python-multipart
